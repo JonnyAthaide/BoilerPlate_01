@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-live-server": "0.0.31",
+    "gulp-sass": "^4.0.1",
+    "imagemin-pngquant": "^5.1.0",
+    "jshint-stylish": "^2.2.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.9.5"
+  }
+}
